@@ -1,0 +1,22 @@
+# Pastas de build
+bin/
+obj/
+Debug/
+Release/
+
+# Configuração do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Arquivos temporários
+uploads/
+temp/
+*.tmp
+
+# Configurações locais (não subir para o GitHub)
+appsettings.Development.json
+secrets.json
