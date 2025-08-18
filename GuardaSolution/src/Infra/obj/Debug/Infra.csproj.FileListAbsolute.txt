@@ -1,0 +1,6 @@
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Infra\bin\Debug\Infra.dll
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Infra\bin\Debug\Infra.pdb
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Infra\obj\Debug\Infra.csproj.AssemblyReference.cache
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Infra\obj\Debug\Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Infra\obj\Debug\Infra.dll
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Infra\obj\Debug\Infra.pdb

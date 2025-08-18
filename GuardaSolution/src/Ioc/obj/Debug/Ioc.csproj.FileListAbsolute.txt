@@ -1,0 +1,6 @@
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Ioc\bin\Debug\Ioc.dll
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Ioc\bin\Debug\Ioc.pdb
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Ioc\obj\Debug\Ioc.csproj.AssemblyReference.cache
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Ioc\obj\Debug\Ioc.csproj.CoreCompileInputs.cache
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Ioc\obj\Debug\Ioc.dll
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Ioc\obj\Debug\Ioc.pdb

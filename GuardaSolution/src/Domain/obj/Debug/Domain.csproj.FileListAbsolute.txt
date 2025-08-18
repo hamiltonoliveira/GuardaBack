@@ -1,0 +1,6 @@
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Domain\bin\Debug\Domain.dll
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Domain\bin\Debug\Domain.pdb
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Domain\obj\Debug\Domain.dll
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Domain\obj\Debug\Domain.pdb

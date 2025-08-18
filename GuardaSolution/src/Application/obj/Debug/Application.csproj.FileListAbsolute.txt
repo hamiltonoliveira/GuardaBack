@@ -1,0 +1,6 @@
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Application\bin\Debug\Application.dll
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Application\bin\Debug\Application.pdb
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Application\obj\Debug\Application.dll
+C:\Projetos\Guardar\Backend\GuardaBack\GuardaSolution\src\Application\obj\Debug\Application.pdb
