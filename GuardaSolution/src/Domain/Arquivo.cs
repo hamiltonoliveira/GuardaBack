@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain.Enum;
+using System;
 using System.Collections.Generic;
 
 namespace Domain
@@ -8,7 +9,7 @@ namespace Domain
         public Guid Id { get; set; } = Guid.NewGuid();
         public string NomeOriginal { get; set; }
         public string CaminhoArmazenado { get; set; }
-        public string Extensao { get; set; }
+        public ExtensaoArquivo Extensao { get; set; }
         public long TamanhoBytes { get; set; }
         public DateTimeOffset? DataUpload { get; set; } = DateTime.UtcNow;
         public Guid UsuarioId { get; set; }
